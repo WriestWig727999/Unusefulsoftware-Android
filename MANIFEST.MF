@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: avkoZLCN2VoERkMF2KWXIxyreVA=
+
+Name: lua/loadmenu.lua
+SHA1-Digest: E5o6XN/a6H5TEIjue3o6ORKbSdo=
+
+Name: res/xml/accessibility_service_config.xml
+SHA1-Digest: GoVHIICiB06kpl04qHYSecIkZrw=
+
+Name: lua/DebugAssistant.lua
+SHA1-Digest: NPaLNsdufdBnI1L+GZqqFgg2tks=
+
+Name: res/xml-v22/accessibility_service_config.xml
+SHA1-Digest: s6FHovO6OIArRwB/IoTM220fiGY=
+
+Name: lib/armeabi-v7a/libliquid.so
+SHA1-Digest: INjJB6NqndLKDUascEF+1fd3B2g=
+
+Name: lua/loadbitmap.lua
+SHA1-Digest: ZgUo/b8n7/tZKJSBVq4ScHRCACk=
+
+Name: res/xml/andlua_filepaths.xml
+SHA1-Digest: ml675rczr+YLiQ0n0hCYK87x8xg=
+
+Name: assets/main.lua
+SHA1-Digest: +uQBg7F5ehSj+TG6/Pi6rcVaXAQ=
+
+Name: lib/armeabi-v7a/libquiet_lwip.so
+SHA1-Digest: iteY8bXTw9raKWYcUNIiPVECsH4=
+
+Name: lib/arm64-v8a/libluajava.so
+SHA1-Digest: EJL83i903THtX03LK/sOZie66WQ=
+
+Name: lib/armeabi-v7a/libfec.so
+SHA1-Digest: T1ekeqIyxqczKUd4c3o+YfZuAA8=
+
+Name: lua/loadlayout.lua
+SHA1-Digest: OqaeATrCDlaWP1Qk/Fg7qTXDtQw=
+
+Name: lib/armeabi-v7a/libcomplex.so
+SHA1-Digest: YNbM3Wcw/ahNGK6oDh+3+CzXGCw=
+
+Name: classes2.dex
+SHA1-Digest: vjgYg5NgO3FTHNEDWXxcTNhqRLU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: DH3H7rf53KPZOjH1AaVXlHMiFhE=
+
+Name: lib/armeabi-v7a/libquiet-jni.so
+SHA1-Digest: Cr8qmDzSEpKIbMUXNVNgIh9IlTk=
+
+Name: assets/layout.lua
+SHA1-Digest: kYDwZb3J0hxanBUl8xdyPnI4ZBE=
+
+Name: assets/init.lua
+SHA1-Digest: xwRCxsfOr4mdrjiMpZ0GX8A+UXw=
+
+Name: lib/armeabi-v7a/libluajava.so
+SHA1-Digest: q4jyMbocpqIdcfO7r9tPPYfwfGA=
+
+Name: resources.arsc
+SHA1-Digest: 1JLvL9MToxdR5XGtd9zB5pxqIY8=
+
+Name: lib/armeabi-v7a/libquiet.so
+SHA1-Digest: /M+AkOEcWFKcE/DDAG6MDDWLi4c=
+
+Name: classes.dex
+SHA1-Digest: vjgYg5NgO3FTHNEDWXxcTNhqRLU=
+
+Name: lib/armeabi-v7a/libjansson.so
+SHA1-Digest: 4cmHLbWc7g046NVKr+hIJ1gUiwI=
+
+Name: lua/import.lua
+SHA1-Digest: SshxKdYz4u9dKojK3NM22ADW77E=
+
