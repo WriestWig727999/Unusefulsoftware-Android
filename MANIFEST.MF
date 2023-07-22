@@ -2,34 +2,67 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: AndroidManifest.xml
-SHA1-Digest: avkoZLCN2VoERkMF2KWXIxyreVA=
+SHA1-Digest: zJ+fEwWNVhbXxd4HLzG2lWXEmHc=
 
 Name: lua/loadmenu.lua
 SHA1-Digest: E5o6XN/a6H5TEIjue3o6ORKbSdo=
 
+Name: assets/items.lua
+SHA1-Digest: mMLxe+Hr+oLfiLsd6hB791dH4E0=
+
 Name: res/xml/accessibility_service_config.xml
 SHA1-Digest: GoVHIICiB06kpl04qHYSecIkZrw=
+
+Name: assets/icon/ic_power.png
+SHA1-Digest: tM5OfNY2Oe77Me+EIKdbxn1qvCk=
 
 Name: lua/DebugAssistant.lua
 SHA1-Digest: NPaLNsdufdBnI1L+GZqqFgg2tks=
 
+Name: assets/icon/ic_right.png
+SHA1-Digest: H49poUpsIq0ev2UKxa5hK/XfNNk=
+
 Name: res/xml-v22/accessibility_service_config.xml
 SHA1-Digest: s6FHovO6OIArRwB/IoTM220fiGY=
+
+Name: assets/icon/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: cZeeKYYQoRE11HuW93xInf8XqyM=
 
 Name: lib/armeabi-v7a/libliquid.so
 SHA1-Digest: INjJB6NqndLKDUascEF+1fd3B2g=
 
+Name: assets/icon/navnav.png
+SHA1-Digest: Pl+BDMkWeHp/0gaCdtThIkBr7Dc=
+
 Name: lua/loadbitmap.lua
 SHA1-Digest: ZgUo/b8n7/tZKJSBVq4ScHRCACk=
+
+Name: assets/drawer.lua
+SHA1-Digest: JBeHSjUPzQ3OpWO+b/0oLX5voa8=
+
+Name: assets/icon/ic_package_variant.png
+SHA1-Digest: XzCB6rOGM4gFvOQN02kPLo0u3ew=
+
+Name: assets/content.lua
+SHA1-Digest: Ut5SyVwaGHkuKLCNjvg08KszQv4=
 
 Name: res/xml/andlua_filepaths.xml
 SHA1-Digest: ml675rczr+YLiQ0n0hCYK87x8xg=
 
+Name: assets/icon.png
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/icon/ic_nature_people.png
+SHA1-Digest: Mi7DDy4ek4K01/SpseOs+FStRtM=
+
 Name: assets/main.lua
-SHA1-Digest: +uQBg7F5ehSj+TG6/Pi6rcVaXAQ=
+SHA1-Digest: BxtG9bAJXO9lIfbPJJHAZJlxUtw=
 
 Name: lib/armeabi-v7a/libquiet_lwip.so
 SHA1-Digest: iteY8bXTw9raKWYcUNIiPVECsH4=
+
+Name: assets/icon/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: R1Lv+apJOCS6dUNQwI1UE8jwb9w=
 
 Name: lib/arm64-v8a/libluajava.so
 SHA1-Digest: EJL83i903THtX03LK/sOZie66WQ=
@@ -43,20 +76,32 @@ SHA1-Digest: OqaeATrCDlaWP1Qk/Fg7qTXDtQw=
 Name: lib/armeabi-v7a/libcomplex.so
 SHA1-Digest: YNbM3Wcw/ahNGK6oDh+3+CzXGCw=
 
+Name: assets/icon/ic_cog.png
+SHA1-Digest: 80e6AyUUl5qUzHNPl8jDFJlm94Y=
+
 Name: classes2.dex
 SHA1-Digest: vjgYg5NgO3FTHNEDWXxcTNhqRLU=
 
 Name: res/drawable/icon.png
-SHA1-Digest: DH3H7rf53KPZOjH1AaVXlHMiFhE=
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/icon/ic_delete.png
+SHA1-Digest: 5KXb+JcYMq5E4w6NnsisoQTyvYs=
 
 Name: lib/armeabi-v7a/libquiet-jni.so
 SHA1-Digest: Cr8qmDzSEpKIbMUXNVNgIh9IlTk=
 
-Name: assets/layout.lua
-SHA1-Digest: kYDwZb3J0hxanBUl8xdyPnI4ZBE=
+Name: assets/icon/orange.png
+SHA1-Digest: u3YhXPxzhCakUipEliQn6d5X/Lc=
+
+Name: assets/icon/ic_share_variant.png
+SHA1-Digest: Q3sutvx9w70pCE6YNpfTYM1EI2k=
+
+Name: assets/icon/ic_message_processing.png
+SHA1-Digest: hH2S1v+aKzf2E932BVbhrPLztlM=
 
 Name: assets/init.lua
-SHA1-Digest: xwRCxsfOr4mdrjiMpZ0GX8A+UXw=
+SHA1-Digest: vh96tv/ml5Tcmp8+TdKJioe00DU=
 
 Name: lib/armeabi-v7a/libluajava.so
 SHA1-Digest: q4jyMbocpqIdcfO7r9tPPYfwfGA=
@@ -75,4 +120,7 @@ SHA1-Digest: 4cmHLbWc7g046NVKr+hIJ1gUiwI=
 
 Name: lua/import.lua
 SHA1-Digest: SshxKdYz4u9dKojK3NM22ADW77E=
+
+Name: assets/icon/ic_download.png
+SHA1-Digest: E4GT1pkV42+kN71DKl30HlNqnxE=
 
