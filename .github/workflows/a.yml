@@ -1,0 +1,16 @@
+name:Android CI
+on:push
+jobs:
+  build:
+       runs-on:ubnutu 20.04
+       -name:pack
+      run: |
+    
+      zip $GITHUB_WORKSPACE * a.zip
+      mv a.zip a.apk
+      
+  - name : a.apk
+        uses: actions/upload-artifact@master
+        if: always()
+        with:
+          name:a.apk
